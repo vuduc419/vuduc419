@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A passionate frontend developer from Vietnamese</h3>
 
-- 🌱 I’m currently learning **Utehy**
+- 🌱 I’m currently learning **UTEHY**
 
 - 📫 How to reach me **vuduc419@gmail.com**
 
